@@ -20,6 +20,9 @@ I'm already considering the input array to be sorted
 
   */
 
+/* PROBLEM STATEMENT:
+  Given an array of 101 elements ,out of them 50 are distinct ,24 repeat twice and exactly 1 element appear 3 times .
+  Find the element that appears thrice */
 
 #include<iostream>
 #include<map>
